@@ -1,0 +1,17 @@
+.login-wrapper , .masterdata-wrapper{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  .row {
+    margin-bottom: 10px;
+    text-align: center;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
+}
+
+.masterdata-wrapper {
+  width: 500px;
+}

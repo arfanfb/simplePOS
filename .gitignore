@@ -1,0 +1,10 @@
+# System
+.DS_Store
+Thumbs.db
+logs
+.env
+npm-debug.log
+
+# Babel Cache
+babel_cache/
+node_modules/
